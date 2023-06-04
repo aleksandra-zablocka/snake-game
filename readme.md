@@ -1,0 +1,1 @@
+Code written by Adam Strzyżewski (https://github.com/AdamStrzyzewski) on a GoIT lecture
